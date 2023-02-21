@@ -27,11 +27,11 @@
 		}
 	},
 	"google_keys":  {
-		"android": {
-			"reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"interstitial": "ca-app-pub-3276678334967119/1935253146",
-			"banner": "ca-app-pub-3276678334967119/8258771301",
-			"native": "ca-app-pub-3276678334967119/3072224935"
+		"android": {	
+			"reward": "/6499/example/reward",
+			"interstitial": "/6499/example/interstitial",
+			"banner": "/6499/example/banner",
+			"native": "/6499/example/native"
 		},
 		"iOS": {
 			"reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
