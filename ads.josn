@@ -6,9 +6,9 @@
 	"redirect_url": "",
 	"facebook_keys": {
 		"android": {
-			"interstitial": "418573849520500_544273330283884",
-			"banner": "418573849520500_422870502424168",
-			"native": "418573849520500_422852852425933"
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 		},
 		"iOS": {
 			"interstitial": "418573849520500_544274400283777",
