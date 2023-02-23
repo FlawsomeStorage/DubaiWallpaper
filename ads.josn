@@ -3,8 +3,8 @@
 	"app_name": "Application Name",
 	"app_package_name": "com.XXXX.YYYY",
 	"email":"rushabhnavadiya45@gmail.com",
-	"current_advertise_type": 1,
-	"reward_ad_type": 1,
+	"current_advertise_type": 2,
+	"reward_ad_type": 2,
 	"redirect_url": "",
 	"reward_redirect_url": "",
 
