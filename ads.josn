@@ -2,9 +2,9 @@
 	"app_id": 1,
 	"app_name": "Application Name",
 	"app_package_name": "com.XXXX.YYYY",
-	"email":"rushabhnavadiya45@gmail.com",
-	"current_advertise_type": 2,
-	"reward_ad_type": 2,
+	"email":"turtlesquare00@gmail.com",
+	"current_advertise_type": 0,
+	"reward_ad_type": 0,
 	"redirect_url": "",
 	"reward_redirect_url": "",
 
@@ -12,13 +12,13 @@
 	"interstitial_keywords": "Home Loan,Lawyer Advice Online,Jewellery,Gold Loan",
 	"native_keywords": "Home Loan,Lawyer Advice Online,Jewellery,Gold Loan",
 	"banner_keywords": "Home Loan,Lawyer Advice Online,Jewellery,Gold Loan",
-	"show_ads_after_pages": 15,
+	"show_ads_after_pages": 10,
 	"facebook_keys": {
 		"android": {
-			"reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+			"reward": "724236779447436_724249179446196",
+			"interstitial": "724236779447436_724248882779559",
+			"banner": "724236779447436_724248699446244",
+			"native": "724236779447436_724249029446211"
 		},
 		"iOS": {
 			"reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
