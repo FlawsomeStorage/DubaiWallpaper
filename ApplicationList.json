@@ -1,4 +1,12 @@
 [
+   
+   {
+      "title":"Photo Slideshow",
+      "color":"#FFFFFF",
+      "image_url":"https://play-lh.googleusercontent.com/k67xkW6Q9yuvNpv5khKck4s5gI80R3v5H1wvDAI0IuTC2pTtoffZzzxfd9g57kNn1A=w240-h480-rw",
+      "iOS_apps":"",
+      "android_apps":"videoeditor.slideshow.photo_video_maker"
+   },
    {
       "title":"Orbut Vpn",
       "color":"#27267F",
@@ -7,18 +15,11 @@
       "android_apps":"orbut.vpn.secure.proxy"
    },
    {
-      "title":"All-in-One Video Player All Fo",
+      "title":"All-in-One Video Player",
       "color":"#FFFFFF",
       "image_url":"https://play-lh.googleusercontent.com/ipeBIDbxVLSZEWK6fO1fcBHcSwj-MrsvC9pHvQHupLL5OM4s-tNolAZ0sQ54_FbR4Zk=w240-h480-rw",
       "iOS_apps":"",
       "android_apps":"mediaplayer.hdvideo_player.allformate.audio_player"
-   },
-   {
-      "title":"Photo Slideshow With Music",
-      "color":"#FFFFFF",
-      "image_url":"https://play-lh.googleusercontent.com/k67xkW6Q9yuvNpv5khKck4s5gI80R3v5H1wvDAI0IuTC2pTtoffZzzxfd9g57kNn1A=w240-h480-rw",
-      "iOS_apps":"",
-      "android_apps":"videoeditor.slideshow.photo_video_maker"
    },
    {
       "title":"Image to video with music",
@@ -28,14 +29,14 @@
       "android_apps":"videomaster.magicvideo.wowvidmaker.heartphotoanimationvideomaker"
    },
    {
-      "title":"Fitness Planner - Home Workout",
+      "title":"Fitness Planner",
       "color":"#FFFFFF",
       "image_url":"https://play-lh.googleusercontent.com/z9bjMKC8zCYmGjWgo6jlG3N5MqpdOxbZOXYE_bQ-3Gr9Cr06T8mvhBumnXFHdSNQO7E=w240-h480-rw",
       "iOS_apps":"",
       "android_apps":"bodybuilding.fitness.home_workout"
    },
    {
-      "title":"AndroVid - Video, Photo Editor",
+      "title":"AndroVid",
       "color":"#FFFFFF",
       "image_url":"https://play-lh.googleusercontent.com/ISS3WXWyKWejBOtaQQAgelWlcBRHluGJbZe0Kd1_ynw2AHdFBkLahkISz7FA9uqtbrA=w240-h480-rw",
       "iOS_apps":"",
