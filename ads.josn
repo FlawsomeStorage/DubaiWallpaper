@@ -3,7 +3,7 @@
 	"app_name": "Application Name",
 	"app_package_name": "com.XXXX.YYYY",
 	"email":"turtlesquare00@gmail.com",
-	"current_advertise_type": 0,
+	"current_advertise_type": 1,
 	"reward_ad_type": 0,
 	"redirect_url": "",
 	"reward_redirect_url": "",
@@ -15,16 +15,16 @@
 	"show_ads_after_pages": 10,
 	"facebook_keys": {
 		"android": {
-			"reward": "724236779447436_724249179446196",
-			"interstitial": "724236779447436_724248882779559",
-			"banner": "724236779447436_724248699446244",
-			"native": "724236779447436_724249029446211"
+			"reward": "",
+			"interstitial": "",
+			"banner": "",
+			"native": ""
 		},
 		"iOS": {
-			"reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"interstitial": "418573849520500_544274400283777",
-			"banner": "418573849520500_544274033617147",
-			"native": "418573849520500_544274516950432"
+			"reward": "",
+			"interstitial": "",
+			"banner": "",
+			"native": ""
 		}
 	},
 	"google_keys":  {
